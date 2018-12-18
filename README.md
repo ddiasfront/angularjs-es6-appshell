@@ -1,1 +1,1 @@
-# angularwebpack
+# AngularJS ES6 AppShell
